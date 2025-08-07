@@ -1,0 +1,15 @@
+S.N.,company_name,founding_date,founders
+1,The Coca-Cola Company,1886-05-08,['Dr. John Stith Pemberton']
+2,Sony Corporation,1946-05-07,"['Masaru Ibuka', 'Akio Morita']"
+3,McDonald's Corporation,1955-04-15,"['Ray Kroc', 'Richard McDonald', 'Maurice McDonald']"
+4,"Samsung Electronics Co., Ltd.",1969-01-13,['Lee Byung-chul']
+5,Microsoft Corporation,1975-04-04,"['Bill Gates', 'Paul Allen']"
+6,Apple Inc.,1976-04-01,"['Steve Jobs', 'Steve Wozniak', 'Ronald Wayne']"
+7,NVIDIA Corporation,1993-04-05,"['Jensen Huang', 'Chris Malachowsky', 'Curtis Priem']"
+8,Amazon.com Inc.,1994-07-05,['Jeff Bezos']
+9,Google LLC,1998-09-04,"['Larry Page', 'Sergey Brin']"
+10,Alibaba Group Holding Limited,1999-06-28,"['Jack Ma', '18 colleagues']"
+11,SAP SE,1972-04-01,['Dietmar Hopp']
+12,LinkedIn Corporation,2002-12-28,['Reid Hoffman']
+13,"Facebook, Inc.",2004-02-04,['Mark Zuckerberg']
+14,"PayPal Holdings, Inc.",1998-12-01,"['Peter Thiel', 'Max Levchin', 'Luke Nosek', 'Ken Howery']"
